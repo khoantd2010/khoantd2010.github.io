@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Khoa Nguyen Portfolio"
+title                    : "About Khoa Nguyen"
 title_separator          : "-"
 name                     : &name "KHOA NGUYEN"
 description              : &description "personal description"
