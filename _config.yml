@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Khoa Nguyen"
-  avatar           : "profile.png"
+  avatar           : "anh.jpeg"
   bio              : "PhD Student"
   location         : "Canada"
   employer         : "Carleton University"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/khoantd2010"
   google_plus      :
   keybase          :
   instagram        :
