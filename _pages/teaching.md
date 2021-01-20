@@ -48,5 +48,5 @@ Professional Services
   * IEEE Access
   * Journal of Networking and Network Applications
 * Conferences: 
-  * IEEE Globcom2019
-  * IEEE VTC2021
+  * 2019 IEEE Global Communications Conference 
+  * 2021 IEEE 93rd Vehicular Technology Conference
