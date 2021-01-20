@@ -145,8 +145,8 @@ exclude:
   - log
   - node_modules
   - package.json
-  - tmp
-  - vendor
+  - tmp/
+  - vendor/
 
 keep_files:
   - .git
