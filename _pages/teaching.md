@@ -11,12 +11,10 @@ _____________
 * Supervisor: Professor **Changcheng Huang**
 
 **M.Sc. in Telecommunication Engineering, (2012-2013)**
-
-Faculty of Computer Science, University of Sunderland, UK
+* Faculty of Computer Science, University of Sunderland, UK
 
 **B.Eng. in Electronics and Telecommunication, (2003-2008)**
-
-College of Engineering Technology, Can Tho University, Vietnam
+* College of Engineering Technology, Can Tho University, Vietnam
 
 
 {% include base_path %}
@@ -33,7 +31,7 @@ _______________________
 **Network Engineer (Jun, 2008 - Mar, 2009)**
 * Vietnam mobile services company (VMS-Mobifone) - Zone 3, Can Tho City, Vietnam.
 
-Teching Assistance
+Teaching Assistance
 ===========
 ________________
 * SYSC5801F/W - Advanced Topic in Computer Communications (Fall 2016, Winter 2016)
@@ -41,3 +39,14 @@ ________________
 * SYSC2310A – Introduction to Digital Systems (Fall 2017)
 * SYSC2004 – Object-Oriented Software Development (LEC) (Fall 2018, Winter 2018, Winter 2019)
 * ECOR1606 – Problem Solving and Computers (Winter 2017, Summer 2017)	
+
+Professional Services
+============
+
+**External reviewer**
+* Journals: 
+  * IEEE Access
+  * Journal of Networking and Network Applications
+* Conferences: 
+  * IEEE Globcom2019
+  * IEEE VTC2021
