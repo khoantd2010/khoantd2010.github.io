@@ -85,7 +85,7 @@ author:
   bio              : "PhD Student"
   location         : "Canada"
   employer         : #"Carleton University"
-  cv               : "https://github.com/khoantd2010/khoantd2010.github.io/blob/master/files/Curriculum_Vitae.pdf"
+  cv               : <embed src="{{ site.baseurl }}/files/Curriculum_Vitae.pdf" width="600" height="700" type='application/pdf'>  #"https://github.com/khoantd2010/khoantd2010.github.io/blob/master/files/Curriculum_Vitae.pdf"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6HD0UeAAAAAJ&hl=en"
   email            :
