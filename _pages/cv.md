@@ -14,7 +14,7 @@ Awards
 * Mekong 1000 Project Scholarship,	Oct, 2010
 * VIED Scholarship,	Sept, 2014
 
-Certificate
+Certificates
 ======
 * Certificate in Teaching Methodology, Can Tho University 
 * Certificate of Mobile Technologies and Services Training Program, Centre for Execellence in Telecom Technology & Management Mumbai.
