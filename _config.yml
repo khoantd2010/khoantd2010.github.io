@@ -85,11 +85,11 @@ author:
   bio              : "PhD Student"
   location         : "Canada"
   employer         : #"Carleton University"
-  CV               : "CV"
+  location         : #"CV"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6HD0UeAAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Khoa_Nguyen93" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
