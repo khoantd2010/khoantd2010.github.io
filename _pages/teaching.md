@@ -6,7 +6,7 @@ author_profile: true
 ---
 _____________
 Education
-=============
+======
 * SYSC5001
 * SYSC5801
 
