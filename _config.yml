@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Khoa Nguyen"
+title                    : "Nguyen Tran Duy Khoa"
 title_separator          : "-"
-name                     : &name "KHOA NGUYEN"
+name                     : &name "KHOA NGUYEN | Department of Systems and Computer Engineering | Carleton University"
 description              : &description "personal description"
 url                      : https://khoantd2010.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,8 @@ author:
   avatar           : "Hinh_the.png"
   bio              : "PhD Student"
   location         : "Canada"
-  employer         : "Carleton University"
+  employer         : #"Carleton University"
+  CV               : "CV"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6HD0UeAAAAAJ&hl=en"
   email            :
@@ -186,9 +187,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-#   talks:
-#     output: true
-#     permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
