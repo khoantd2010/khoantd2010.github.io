@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 __________
+* Research Allocation
+* Network Virtualization
+* Communication Networks
+* Cloud and Edge Computing
+
 Publications
 =============
 
