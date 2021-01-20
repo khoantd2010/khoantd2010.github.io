@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Education"
 permalink: /teaching/
 author_profile: true
 ---
 _____________
-Education
-======
+Teaching
+===
 * SYSC5001
 * SYSC5801
 
