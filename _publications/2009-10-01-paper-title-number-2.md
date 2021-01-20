@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Virtual Link Mapping in Network Virtualization"
 collection: publications
-permalink: /publication/2020-12-01-Rethinking-Virtual-Link-Mapping-in-Network-Virtualization
+permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'The 2020 IEEE 92nd Vehicular Technology Conference'
 date: 2020
 venue: 'VTC'
