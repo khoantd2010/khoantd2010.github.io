@@ -12,9 +12,9 @@ redirect_from:
 Awards
 ===
 * Mekong 1000 Project Scholarship,	Oct, 2010
-* VIED Scholarship,	Sept, 2014
+* Vietnam International Education Development (VIED) Scholarship,	Sept, 2014
 
 Certificates
 ======
-* Certificate in Teaching Methodology, Can Tho University 
-* Certificate of Mobile Technologies and Services Training Program, Centre for Execellence in Telecom Technology & Management Mumbai.
+* Certificate in Teaching Methodology, Can Tho University, 2013
+* Certificate of Mobile Technologies and Services Training Program, Centre for Execellence in Telecom Technology & Management Mumbai, 2014
