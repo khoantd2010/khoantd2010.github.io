@@ -1,7 +1,7 @@
 ---
 title: "An Intelligent Parallel Algorithm for Online Virtual Network Embedding"
 collection: publications
-permalink: /publication/2019-08-30-paper-1
+permalink: /publication/2019-08-30-An-Intelligent-Parallel-Algorithm-for-Online-Virtual-Network-Embedding
 excerpt: '2019 International Conference on Computer, Information and Telecommunication Systems (CITS)'
 date: 2019
 venue: 'CITS-'
