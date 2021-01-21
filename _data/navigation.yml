@@ -17,6 +17,8 @@ main:
     
   - title: "Awards and Achievements"
     url: /cv/
-    
+ 
+   - title: "Contact"
+    url: /contact/
 #   - title: "Guide"
 #     url: /markdown/
