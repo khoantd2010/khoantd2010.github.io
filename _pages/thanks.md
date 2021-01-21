@@ -3,7 +3,7 @@ title: "Thank you"
 permalink: /thanks/
 author_profile: true
 ---
-__
+_____
 Your form has been successfully submitted !
 
 I will get back to you as soon as possible.
@@ -12,6 +12,6 @@ I will get back to you as soon as possible.
 Best regards,
 
 Khoa Nguyen
-__
+_____
 
 [Submit another form](/contact/)
