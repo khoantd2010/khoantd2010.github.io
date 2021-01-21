@@ -4,7 +4,7 @@ permalink: /thanks/
 author_profile: true
 ---
 _____
-Your form has been successfully submitted !
+Your form has been submitted successfully!
 
 I will get back to you as soon as possible.
 
