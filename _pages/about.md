@@ -19,7 +19,7 @@ _____________
 * Oct 30, 2020: Our paper submitted to Wiley International Journal of Communication Networks has been accepted for publication.
 * Oct 23, 2020: Two papers have been accepted for publication in IEEE CloudNet2020
 * Sep 30, 2020: A paper submitted to IEEE SMC2002 Toronto has been accepted for publication
-* Jul 08, 2020: our paper submitted to IEEE VTC2020 Fall has been accepted for publication.
+* Jul 08, 2020: Our paper submitted to IEEE VTC2020 Fall has been accepted for publication.
 * Jan 01, 2020: Started working as an intern at [BitQubic](https://www.bitqubic.com/).
 
 Current Project
