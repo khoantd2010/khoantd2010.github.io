@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Khoa Nguyen"
   avatar           : "Hinh_the.png"
-  bio              : "PhD Student | Department of Systems and Computer Engineering | Carleton University"
+  bio              : "PhD Student | Department of Systems and Computer Engineering | <a href='https://carleton.ca'>Carleton University</a>"
   location         : "Canada"
   employer         : #"Carleton University"
-  university       : "Carleton University"
+  university       : #"Carleton University"
   cv               : "khoantd2010.github.io/files/Curriculum_Vitae.pdf" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6HD0UeAAAAAJ&hl=en"
