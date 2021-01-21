@@ -3,6 +3,7 @@ title: "Thank you"
 permalink: /thanks/
 author_profile: true
 ---
+{% include base_path %}
 _____
 Your form has been submitted successfully!
 
