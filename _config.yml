@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Nguyen Tran Duy Khoa"
 title_separator          : "-"
-name                     : &name "KHOA NGUYEN | Department of Systems and Computer Engineering | Carleton University"
+name                     : &name "KHOA NGUYEN"
 description              : &description "personal description"
 url                      : https://khoantd2010.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Khoa Nguyen"
   avatar           : "Hinh_the.png"
-  bio              : "PhD Student"
+  bio              : "PhD Student | Department of Systems and Computer Engineering | Carleton University"
   location         : "Canada"
   employer         : #"Carleton University"
   cv               : "khoantd2010.github.io/files/Curriculum_Vitae.pdf" 
