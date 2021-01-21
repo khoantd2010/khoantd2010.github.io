@@ -11,7 +11,7 @@ title                    : "Nguyen Tran Duy Khoa"
 title_separator          : "-"
 name                     : &name "KHOA NGUYEN"
 description              : &description "personal description"
-url                      : https://khoantd2010.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://khoantd2010.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "khoantd2010/khoantd2010.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/khoantd2010"
+  github           : "khoantd2010"
   google_plus      :
   keybase          :
   instagram        :
