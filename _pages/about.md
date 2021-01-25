@@ -14,6 +14,7 @@ Khoa TD Nguyen received his M.Sc. degree in Telecommunications Engineering from 
 Recent News
 ======
 _____________
+* Jan 25, 2021: Our paper submitted to ICC2021 confenrece has been accepted for publication.
 * Jan 13, 2021: Our work on GAOne has been accepted for publication in Journal of Networking and Network Applications
 * Dec 17, 2002: NSERC project has been extended until March 2021.
 * Oct 30, 2020: Our paper submitted to Wiley International Journal of Communication Networks has been accepted for publication.
