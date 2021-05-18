@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 ______________
-Khoa TD Nguyen received his M.Sc. degree in Telecommunications Engineering from the University of Sunderland, England, in 2013. He is currently pursuing the Ph.D. degree in Electrical and Computer Engineering under the supervision of [Professor Changcheng Huang](http://www.sce.carleton.ca/faculty/huang.html) at the Department of Systems and Computer Engineering, Carleton University, Canada. His main research interests are in communication networks, network virtualization, and machine learning. He has worked as an intern at [BitQubic](https://www.bitqubic.com/) funded by [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) conducting a research on extensible and reliable edge computing infrastructure.  
+Hello, 
+My name is Khoa Nguyen. I received M.Sc. degree in Telecommunications Engineering from the University of Sunderland, England, in 2013. I am currently pursuing the Ph.D. degree in Electrical and Computer Engineering under the supervision of [Professor Changcheng Huang](http://www.sce.carleton.ca/faculty/huang.html) at the Department of Systems and Computer Engineering, Carleton University, Canada. My main research interests include communication networks, network virtualization, and machine learning. I worked as an intern at [BitQubic](https://www.bitqubic.com/) funded by [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) conducting a research on extensible and reliable edge computing infrastructure.  
 
 
 Recent News
