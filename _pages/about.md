@@ -23,7 +23,7 @@ _____________
 * Jul 08, 2020: Our paper submitted to IEEE VTC2020 Fall has been accepted for publication.
 * Jan 01, 2020: Started working as an intern at [BitQubic](https://www.bitqubic.com/).
 
-Current Project
+Current Projects
 ======
 ____________
 1. Rethinking Virtual Link Mapping in Network Virtualization. 
