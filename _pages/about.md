@@ -29,6 +29,7 @@ Current Projects
 ======
 ____________
 1. Join Node-Link Algorithm for Embedding Virtual Networks with Conciliation Strategy. 
-1. Rethinking Virtual Link Mapping in Network Virtualization. 
-1. [Expandable and reliable edge-computing platform](https://educationnewscanada.com/article/organization/24248/825039/Carleton-Receives-NSERC-Grants-to-Support-Innovative-Industry-Partnerships.htm). 
+2. [Expandable and reliable edge-computing platform](https://educationnewscanada.com/article/organization/24248/825039/Carleton-Receives-NSERC-Grants-to-Support-Innovative-Industry-Partnerships.htm). 
+3. Rethinking Virtual Link Mapping in Network Virtualization. 
+
 
