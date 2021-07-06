@@ -15,7 +15,7 @@ My name is Khoa Nguyen. I received M.Sc. degree in Telecommunications Engineerin
 Recent News
 ======
 _____________
-* May 22, 2021: I have been awarded a Student Grant to IEEE International Conference on Communications (ICC 2021)
+* May 22, 2021: I have been awarded a [Student Grant](files/ICC 21 Student Grant Khoa Nguyen.pdf) to IEEE International Conference on Communications (ICC 2021)
 * Jan 25, 2021: Our paper submitted to ICC2021 confenrece has been accepted for publication.
 * Jan 13, 2021: Our work on GAOne has been accepted for publication in Journal of Networking and Network Applications
 * Dec 17, 2002: NSERC project has been extended until March 2021.
