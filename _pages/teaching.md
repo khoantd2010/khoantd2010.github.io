@@ -43,10 +43,12 @@ ________________
 Professional Services
 ============
 
-**External reviewer**
+**Reviewer**
 * Journals: 
+  * IEEE Transaction on Network and Service Management
   * IEEE Access
   * Journal of Networking and Network Applications
 * Conferences: 
-  * 2019 IEEE Global Communications Conference 
+  * 2021 IEEE Vehicular Power and Propulsion
   * 2021 IEEE 93rd Vehicular Technology Conference
+  * 2019 IEEE Global Communications Conference 
