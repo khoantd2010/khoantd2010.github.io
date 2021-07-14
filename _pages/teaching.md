@@ -7,7 +7,7 @@ author_profile: true
 _____________
 **Ph.D., Electrical and Computer Engineering (2015-present)**
 * Department of Systems and Computer Engineering, Carleton University
-* Thesis title: update_later
+* Thesis title: Distributed and Parallel Framework for Online Virtual Resource Allocation based on Metaheuristic Algorithm
 * Supervisor: Professor **Changcheng Huang**
 
 **M.Sc. in Telecommunication Engineering, (2012-2013)**
