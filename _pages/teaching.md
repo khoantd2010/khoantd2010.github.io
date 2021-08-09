@@ -7,7 +7,7 @@ author_profile: true
 _____________
 **Ph.D., Electrical and Computer Engineering (2015-present)**
 * Department of Systems and Computer Engineering, Carleton University
-* Thesis title: Distributed and Parallel Framework for Online Virtual Resource Allocation based on Metaheuristic Algorithm
+* Thesis title: Distributed and Parallel Metaheuristic-based Algorithms for Online Virtual Resource Allocation
 * Supervisor: Professor **Changcheng Huang**
 
 **M.Sc. in Telecommunication Engineering, (2012-2013)**
@@ -48,7 +48,8 @@ Professional Services
   * IEEE Transaction on Network and Service Management
   * IEEE Access
   * Journal of Networking and Network Applications
+  * Journal of Service Science and Management 
 * Conferences: 
-  * 2021 IEEE Vehicular Power and Propulsion
-  * 2021 IEEE 93rd Vehicular Technology Conference
-  * 2019 IEEE Global Communications Conference 
+  * IEEE Vehicular Power and Propulsion **2021**
+  * IEEE 93rd Vehicular Technology Conference **2021**
+  * IEEE Global Communications Conference **2019**
