@@ -50,6 +50,6 @@ Professional Services
   * Journal of Networking and Network Applications
   * Journal of Service Science and Management 
 * Conferences: 
-  * IEEE Vehicular Power and Propulsion *2021*
-  * IEEE 93rd Vehicular Technology Conference *2021*
-  * IEEE Global Communications Conference *2019*
+  * IEEE Vehicular Power and Propulsion 
+  * IEEE 93rd Vehicular Technology Conference 
+  * IEEE Global Communications Conference 
