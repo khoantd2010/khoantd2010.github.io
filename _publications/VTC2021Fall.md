@@ -14,4 +14,4 @@ upon virtual node mapping (VNoM) and virtual link mapping (VLiM) separately. Unc
 to deal with a set of infeasible link mappings during producing VNE solutions in GA’s operations. Extensive evaluation results indicate that our proposed approach outperforms state-of-theart VNE algorithms in all adopted performance metrics.
 [Download paper here](TBD)
 
-Recommendaed citation: K. T. Nguyen, Q. Lu and C. Huang, "Joint Node-Link Embedding Algorithm based on Genetic Algorithm in Virtualization Environment," 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall), Virtual, 2021, pp. 1-5, doi: 10.1109/VTC2020-Fall.
+Recommendaed citation: K. T. Nguyen, Q. Lu and C. Huang, "Joint Node-Link Embedding Algorithm based on Genetic Algorithm in Virtualization Environment," 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall), Virtual, 2021, pp. 1-5, doi: 10.1109/VTC2021-Fall.
