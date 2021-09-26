@@ -51,6 +51,6 @@ Professional Services
   * Journal of Service Science and Management 
 * Conferences: 
   * IEEE Vehicular Power and Propulsion 
-  * IEEE 93rd Vehicular Technology Conference 
+  * IEEE Vehicular Technology Conference 
   * IEEE Global Communications Conference 
   * IEEE/ACM Conference on Connected Health Applications, Systems, and Engineering Technologies
