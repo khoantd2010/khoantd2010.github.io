@@ -53,3 +53,4 @@ Professional Services
   * IEEE Vehicular Power and Propulsion 
   * IEEE 93rd Vehicular Technology Conference 
   * IEEE Global Communications Conference 
+  * IEEE/ACM Conference on Connected Health Applications, Systems, and Engineering Technologies
