@@ -9,7 +9,7 @@ redirect_from:
 ---
 ______________
 Hello, 
-My name is Khoa Nguyen. I received M.Sc. degree in Telecommunications Engineering from the University of Sunderland, England, in 2013. I am currently pursuing the Ph.D. degree in Electrical and Computer Engineering under the supervision of [Professor Changcheng Huang](http://www.sce.carleton.ca/faculty/huang.html) at the Department of Systems and Computer Engineering, Carleton University, Canada. My main research interests include communication networks, network virtualization, and machine learning. I worked as an intern at [BitQubic](https://www.bitqubic.com/) funded by [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) conducting a research on extensible and reliable edge computing infrastructure.  
+My name is Khoa Nguyen. I received M.Sc. degree in Telecommunications Engineering from the University of Sunderland, England, in 2013 and the Ph.D. degree in Electrical and Computer Engineering under the supervision of [Professor Changcheng Huang](http://www.sce.carleton.ca/faculty/huang.html) at the Department of Systems and Computer Engineering, Carleton University, Canada, in 2021, respectively. My main research interests include communication networks, network function virtualization (NFV), virtual network functions (VNFs), software-defined network (SDN), container technologies and machine learning. I worked as an intern at [BitQubic](https://www.bitqubic.com/) funded by [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) conducting a research on extensible and reliable edge computing infrastructure.  
 
 
 Recent News
