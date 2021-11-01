@@ -50,7 +50,8 @@ Professional Services
   * Journal of Networking and Network Applications
   * Journal of Service Science and Management 
 * Conferences: 
-  * IEEE Vehicular Power and Propulsion 
-  * IEEE Vehicular Technology Conference 
-  * IEEE Global Communications Conference 
-  * IEEE/ACM Conference on Connected Health Applications, Systems, and Engineering Technologies
+  * IEEE Vehicular Power and Propulsion (VPP)
+  * IEEE Vehicular Technology Conference (VTC)
+  * IEEE Global Communications Conference (GLOBECOM)
+  * IEEE/ACM Conference on Connected Health Applications, Systems, and Engineering Technologies (CHASE)
+  * IEEE Wireless Communications and Networking Conference (WCNC)
