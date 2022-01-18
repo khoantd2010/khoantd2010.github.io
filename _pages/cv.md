@@ -18,5 +18,6 @@ Awards
 
 Certificates
 ======
+* Neural Networks and Deep Learning - Coursera Certificate, 2019
+*  Certificate of Mobile Technologies and Services Training Program, Centre for Execellence in Telecom Technology & Management Mumbai, 2014
 * Certificate in Teaching Methodology, Can Tho University, 2013
-* Certificate of Mobile Technologies and Services Training Program, Centre for Execellence in Telecom Technology & Management Mumbai, 2014
