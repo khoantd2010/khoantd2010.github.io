@@ -13,8 +13,8 @@ Awards
 ===
 * Awarded student Travel Grant from IEEE Global Communications Conference (Globecom 2021) 
 * Awarded student Travel Grant from IEEE International Conference on Communications (ICC 2021) 
-* Mekong 1000 Project Scholarship,	Oct, 2010
 * Vietnam International Education Development (VIED) Scholarship,	Sept, 2014
+* Mekong 1000 Project Scholarship,	Oct, 2010
 
 Certificates
 ======
