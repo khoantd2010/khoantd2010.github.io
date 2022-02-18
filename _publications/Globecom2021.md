@@ -5,7 +5,7 @@ permalink: /publication/Globecom2021
 excerpt: 'IEEE Global Communications Conference'
 date: 2021-12-07
 venue: '2021 IEEE Global Communications Conference'
-paperurl: ''
+paperurl: 'https://doi.org/10.1109/GLOBECOM46510.2021.9685037'
 
 ---
 Abstract: 
