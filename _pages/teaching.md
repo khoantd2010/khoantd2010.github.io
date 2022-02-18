@@ -44,9 +44,11 @@ Professional Services
 ============
 
 **Reviewer**
-* Journals: 
+* Journals:
+  * IEEE  Internet of Things  Journal 
   * IEEE Transaction on Network and Service Management
   * IEEE Access
+  * MDPI Electronics Journal
   * Journal of Networking and Network Applications
   * Journal of Service Science and Management 
 * Conferences: 
