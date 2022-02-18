@@ -5,7 +5,7 @@ permalink: /publication/VTC2021Fall
 excerpt: '2021 IEEE 94th Vehicular Technology Conference'
 date: 2021-09-27
 venue: 'VTC Conference'
-paperurl: 'TBD'
+paperurl: 'https://doi.org/10.1109/VTC2021-Fall52928.2021.9625390'
 
 ---
 Abstract:
