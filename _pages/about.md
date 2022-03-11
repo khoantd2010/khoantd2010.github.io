@@ -15,6 +15,7 @@ My name is Khoa Nguyen. I received M.Sc. degree in Telecommunications Engineerin
 Recent News
 ======
 _____________
+* Mar 11, 2022: Our paper "Towards Adaptive Joint Node and Link Mapping Algorithms for Embedding Virtual Networks: A Conciliation Strategy" submitted to IEEE Transaction on Network and Service Management has been accepted for publication.
 * Oct 04, 2021: I have been awarded a Student Grant from IEEE Global Communications Conference (Globecom2021)
 * Aug 16, 2021: Our paper "Joint Node-Link Algorithm for Embedding Virtual Networks with Conciliation Strategy" submitted to Globecom2021 conference has been accepted for publication. 
 * July 12, 2021: Our paper submitted to IEEE 94th VTC2021-Fall confenrece has been accepted for publication.
