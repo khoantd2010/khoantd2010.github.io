@@ -15,6 +15,7 @@ My name is Khoa Nguyen. I received M.Sc. degree in Telecommunications Engineerin
 Recent News
 ======
 _____________
+* Apr 12, 2022: Our paper submitted to IEEE Access entitled "Parked Vehicles Task Offloading in Edge Computing" has been accepted for publication. 
 * Mar 28, 2022: Invited to serve on the TPC for CENTRIC 2022 Confernce, Lisbon, Portugal.
 * Mar 11, 2022: Our paper "Towards Adaptive Joint Node and Link Mapping Algorithms for Embedding Virtual Networks: A Conciliation Strategy" submitted to IEEE Transaction on Network and Service Management has been accepted for publication.
 * Oct 04, 2021: I have been awarded a Student Grant from IEEE Global Communications Conference (Globecom2021)
