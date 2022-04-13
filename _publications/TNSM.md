@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/TNSM
 excerpt: 'IEEE Transactions on Network and Service Management'
 date: 2022-03-14
-venue: 'IEEE Transactions on Network and Service Management'
+venue: 'IEEE Transactions on Network and Service Management (IF: 4.195)'
 paperurl: 'http://dx.doi.org/10.1109/TNSM.2022.3159479'
 
 ---
