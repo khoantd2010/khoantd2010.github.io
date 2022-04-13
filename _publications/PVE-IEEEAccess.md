@@ -1,7 +1,7 @@
 ---
 title: "Parked Vehicles Task Offloading in Edge Computing"
 collection: publications
-permalink: /publication/TNSM
+permalink: /publication/PVE-IEEEAccess
 excerpt: 'IEEE Access'
 date: 2022-04-12
 venue: 'IEEE Access (IF: 3.367)'
