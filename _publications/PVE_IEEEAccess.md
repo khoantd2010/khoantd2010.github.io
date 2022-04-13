@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/TNSM
 excerpt: 'IEEE Access'
 date: 2022-04-12
-venue: 'IEEE Access'
+venue: 'IEEE Access (IF: 3.367)'
 paperurl: 'http://doi.org/10.1109/ACCESS.2022.3167641'
 
 ---
