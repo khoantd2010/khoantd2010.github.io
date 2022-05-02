@@ -49,6 +49,8 @@ Professional Services
   * IEEE Transaction on Network and Service Management
   * IEEE Access
   * MDPI Electronics Journal
+  * MDPI Mathematics Journal
+  * MDPI Sustainability Journal
   * Journal of Networking and Network Applications
   * Journal of Service Science and Management 
 * Conferences: 
