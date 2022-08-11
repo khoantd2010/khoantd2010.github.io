@@ -59,3 +59,4 @@ Professional Services
   * IEEE Global Communications Conference (GLOBECOM)
   * IEEE/ACM Conference on Connected Health Applications, Systems, and Engineering Technologies (CHASE)
   * IEEE Wireless Communications and Networking Conference (WCNC)
+  * International Conference on Computer Science and Application Engineering (CSAE) published in ACM
