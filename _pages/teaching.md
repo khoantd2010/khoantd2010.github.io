@@ -53,6 +53,7 @@ Professional Services
   * MDPI Sustainability Journal
   * Journal of Networking and Network Applications
   * Journal of Service Science and Management 
+  * International Journal of Communication Systems
 * Conferences: 
   * IEEE Vehicular Power and Propulsion (VPP)
   * IEEE Vehicular Technology Conference (VTC)
