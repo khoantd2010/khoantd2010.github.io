@@ -9,12 +9,14 @@ redirect_from:
 ---
 ______________
 Hello, 
-My name is Khoa Nguyen. I received M.Sc. degree in Telecommunications Engineering from the University of Sunderland, England, in 2013 and the Ph.D. degree in Electrical and Computer Engineering under the supervision of [Professor Changcheng Huang](http://www.sce.carleton.ca/faculty/huang/huang.html) at the Department of Systems and Computer Engineering, Carleton University, Canada, in 2021, respectively. My main research interests include communication networks, cloud/edge computing, parked vehicle edge computing (PVEC), Internet of Vehicles (IoV), software-defined networks (SDN), network function virtualization (NFV), containerization technologies, evolutionary algorithms, and AI/ML applications. I worked as an intern at [BitQubic](https://www.bitqubic.com/) funded by [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) conducting a research on extensible and reliable edge computing infrastructure.  
+My name is Khoa Nguyen. I am a Postdoctoral Fellow at Carleton Univeristy. I received M.Sc. degree in Telecommunications Engineering from the University of Sunderland, England, in 2013 and the Ph.D. degree in Electrical and Computer Engineering under the supervision of [Professor Changcheng Huang](http://www.sce.carleton.ca/faculty/huang/huang.html) at the Department of Systems and Computer Engineering, Carleton University, Canada, in 2021, respectively. My main research interests include communication networks, cloud/edge computing, parked vehicle edge computing (PVEC), Internet of Vehicles (IoV), software-defined networks (SDN), network function virtualization (NFV), containerization technologies, evolutionary algorithms, and AI/ML applications. I worked as an intern at [BitQubic](https://www.bitqubic.com/) funded by [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp) conducting a research on extensible and reliable edge computing infrastructure.  
 
 
 Recent News
 ======
 _____________
+* Oct 17, 2022: Our paper "Cost-aware Node Ranking Algorithm for Embedding Virtual Networks in Internet of Vehicles" submitted to [EAI AICON 2022] (https://aicon-conf.eai-conferences.org/2022/) conference has been accepted for publication. 
+* Oct 11, 2022: Our paper "A Dynamic Vehicle-Ranking Approach for Online Virtual Network Embedding in Internet of Vehicles" submitted to [ITNAC 2022](https://itnac.org.au/) conference has been accepted for publication. 
 * Apr 12, 2022: Our paper submitted to IEEE Access entitled "Parked Vehicles Task Offloading in Edge Computing" has been accepted for publication. 
 * Mar 28, 2022: Invited to serve on the TPC for CENTRIC 2022 Confernce, Lisbon, Portugal.
 * Mar 11, 2022: Our paper "Towards Adaptive Joint Node and Link Mapping Algorithms for Embedding Virtual Networks: A Conciliation Strategy" submitted to IEEE Transaction on Network and Service Management has been accepted for publication.
