@@ -54,6 +54,7 @@ Professional Services
   * Journal of Networking and Network Applications
   * Journal of Service Science and Management 
   * International Journal of Communication Systems
+  * Hindawi Journal of Sensors
 * Conferences: 
   * IEEE Vehicular Power and Propulsion (VPP)
   * IEEE Vehicular Technology Conference (VTC)
