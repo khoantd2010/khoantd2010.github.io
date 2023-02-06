@@ -22,6 +22,15 @@ _____________
 Experience
 ====
 _______________________
+**Postdoc Fellow (Mar, 2022 - Mar, 2023)**
+* Carleton University, Ottawa, Canada
+
+**Research Associate (Dec, 2021 - Mar, 2021)**
+* Carleton University, Ottawa, Canada
+
+**Research Intern (Jan, 2020 - Mar, 2021)**
+* BitQubic Corp. Ottawa, Canada 
+
 **Lecturer 	(Sept, 2013 - Sept, 2015)**
 * Can Tho University of Technology, Can Tho City, Viet Nam
 
@@ -48,13 +57,13 @@ Professional Services
   * IEEE  Internet of Things  Journal 
   * IEEE Transaction on Network and Service Management
   * IEEE Access
-  * MDPI Electronics Journal
-  * MDPI Mathematics Journal
-  * MDPI Sustainability Journal
   * Journal of Networking and Network Applications
   * Journal of Service Science and Management 
   * International Journal of Communication Systems
   * Hindawi Journal of Sensors
+  * MDPI Electronics Journal
+  * MDPI Mathematics Journal
+  * MDPI Sustainability Journal
 * Conferences: 
   * IEEE Vehicular Power and Propulsion (VPP)
   * IEEE Vehicular Technology Conference (VTC)
@@ -62,3 +71,4 @@ Professional Services
   * IEEE/ACM Conference on Connected Health Applications, Systems, and Engineering Technologies (CHASE)
   * IEEE Wireless Communications and Networking Conference (WCNC)
   * International Conference on Computer Science and Application Engineering (CSAE) published in ACM
+  * International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms
