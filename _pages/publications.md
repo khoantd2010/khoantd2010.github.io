@@ -15,7 +15,7 @@ __________
 * Evolutionary Algorithms
 * AI/Machine Learning Applications
 
-Publications [Google Scholar](https://scholar.google.com/citations?hl=en&user=6HD0UeAAAAAJ&view_op=list_works) [DBLP](https://dblp.uni-trier.de/pid/51/4678-1.html)
+Publications 
 =============
 __________
 
@@ -45,4 +45,5 @@ __________
  14. K. T. D. Nguyen and C. Huang, "An Intelligent Parallel Algorithm for Online Virtual Network Embedding," _2019 International Conference on Computer, Information and Telecommunication Systems (CITS)_, Beijing, China, 2019, pp. 1-5, doi: 10.1109/CITS.2019.8862072.
  15. Q. Lu, K. T. Nguyen and C. Huang, "A Novel One-stage Distributed Parallel Embedding for Virtualized Network Environment," _2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)_, Toronto, ON, Canada, 2020, pp. 395-400, doi: 10.1109/SMC42975.2020.9282829.
  
-
+____________
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=6HD0UeAAAAAJ&view_op=list_works) [DBLP](https://dblp.uni-trier.de/pid/51/4678-1.html)
