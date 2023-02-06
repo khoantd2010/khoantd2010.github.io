@@ -15,7 +15,7 @@ __________
 * Evolutionary Algorithms
 * AI/Machine Learning Applications
 
-Publications
+Publications [Google Scholar](https://scholar.google.com/citations?hl=en&user=6HD0UeAAAAAJ&view_op=list_works) [DBLP](https://dblp.uni-trier.de/pid/51/4678-1.html)
 =============
 __________
 
