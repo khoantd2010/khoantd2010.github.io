@@ -22,7 +22,7 @@ _____________
 Experience
 ====
 _______________________
-**Postdoc Fellow (Mar, 2022 - Mar, 2023)**
+**Postdoc Fellow (1 Mar, 2022 - 28 Feb, 2023)**
 * Carleton University, Ottawa, Canada
 
 **Research Associate (Dec, 2021 - Mar, 2021)**
