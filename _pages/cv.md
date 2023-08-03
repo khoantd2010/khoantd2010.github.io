@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Awards
+Grants/Awards
 ===
 * Awarded student Travel Grant from IEEE Global Communications Conference (Globecom 2021) 
 * Awarded student Travel Grant from IEEE International Conference on Communications (ICC 2021) 
