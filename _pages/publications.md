@@ -29,10 +29,10 @@ __________
   {% include archive-single.html %}
 {% endfor %}
  -->
- 1. K. Nguyen and C. Huang, "Toward Adaptive Joint Node and Link Mapping Algorithms for Embedding Virtual Networks: A Conciliation Strategy," in _IEEE Transactions on Network and Service Management_, vol. 19, no. 3, pp. 3323-3340, Sept. 2022, doi: 10.1109/TNSM.2022.3159479. (IF: 4.758)
- 2. K. Nguyen, S. Drew, C. Huang and J. Zhou, "Parked Vehicles Task Offloading in Edge Computing," in _IEEE Access_, vol. 10, pp. 41592-41606, 2022, doi: 10.1109/ACCESS.2022.3167641. (IF: 3.476)
- 3. Nguyen, KTD, Huang, C. Distributed parallel genetic algorithm for online virtual network embedding. _Int J Commun Syst. 2021_; 34:e4691. https://doi.org/10.1002/dac.4691 (IF: 2.047)
- 4. Lu, Q, Nguyen, K, Huang, C. Distributed parallel algorithms for online virtual network embedding applications. _Int J Commun Syst. 2023_; 36( 1):e4325. https://doi.org/10.1002/dac.4325 (IF: 2.047)
+ 1. K. Nguyen and C. Huang, "Toward Adaptive Joint Node and Link Mapping Algorithms for Embedding Virtual Networks: A Conciliation Strategy," in _IEEE Transactions on Network and Service Management_, vol. 19, no. 3, pp. 3323-3340, Sept. 2022, doi: 10.1109/TNSM.2022.3159479. (IF: 5.3)
+ 2. K. Nguyen, S. Drew, C. Huang and J. Zhou, "Parked Vehicles Task Offloading in Edge Computing," in _IEEE Access_, vol. 10, pp. 41592-41606, 2022, doi: 10.1109/ACCESS.2022.3167641. (IF: 3.9)
+ 3. Nguyen, KTD, Huang, C. Distributed parallel genetic algorithm for online virtual network embedding. _Int J Commun Syst. 2021_; 34:e4691. https://doi.org/10.1002/dac.4691 (IF: 2.1)
+ 4. Lu, Q, Nguyen, K, Huang, C. Distributed parallel algorithms for online virtual network embedding applications. _Int J Commun Syst. 2023_; 36( 1):e4325. https://doi.org/10.1002/dac.4325 (IF: 2.1)
  5. Q. Lu, K. Nguyen, and C. Huang, “GAONE: A Novel Approach for Online One-Stage Virtual Functions Embedding,” Accepted by _Journal of Networking and Network Applications_.
  6. K. Nguyen, S. Drew, C. Huang and J. Zhou, "EdgePV: Collaborative Edge Computing Framework for Task Offloading," _ICC 2021 - IEEE International Conference on Communications_, Montreal, QC, Canada, 2021, pp. 1-6, doi: 10.1109/ICC42927.2021.9500400.
  7. K. Nguyen, Q. Lu and C. Huang, "Joint Node-Link Algorithm for Embedding Virtual Networks with Conciliation Strategy," _2021 IEEE Global Communications Conference (GLOBECOM)_, Madrid, Spain, 2021, pp. 1-6, doi: 10.1109/GLOBECOM46510.2021.9685037.
