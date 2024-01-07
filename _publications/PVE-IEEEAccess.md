@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/PVE-IEEEAccess
 excerpt: 'IEEE Access'
 date: 2022-04-12
-venue: 'IEEE Access (IF: 3.476)'
+venue: 'IEEE Access (IF: 3.9)'
 paperurl: 'http://doi.org/10.1109/ACCESS.2022.3167641'
 
 ---
