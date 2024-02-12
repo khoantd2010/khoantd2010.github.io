@@ -34,10 +34,10 @@ _______________________
 **Lecturer 	(Sept, 2013 - Sept, 2015)**
 * Can Tho University of Technology, Can Tho City, Viet Nam
 
-**Telecommunication Engineer 	(Mar, 2009 - Nov, 2010)**
+**Network Operation Center (NOC) Engineer 	(Mar, 2009 - Nov, 2010)**
 * Viettel Telecom Company, Can Tho City, Viet Nam.	    
 
-**Network Engineer (Jun, 2008 - Mar, 2009)**
+**Operation Management Center (OMC) Engineer (Jun, 2008 - Mar, 2009)**
 * Vietnam mobile services company (VMS-Mobifone) - Zone 3, Can Tho City, Vietnam.
 
 Teaching Assistance
