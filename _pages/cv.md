@@ -11,8 +11,13 @@ redirect_from:
 
 Grants/Awards
 ===
+* Research Intern at BitQubic funded by NSERC conducting a research on extensible and reliable edge computing infrastructure (Jan 2020 - Mar 2021)
 * Awarded student Travel Grant from IEEE Global Communications Conference (Globecom 2021) 
 * Awarded student Travel Grant from IEEE International Conference on Communications (ICC 2021) 
+
+Scholarships:
+===
+*	Carleton University Departmental Scholarships	2015-2019
 
 Certificates
 ======
