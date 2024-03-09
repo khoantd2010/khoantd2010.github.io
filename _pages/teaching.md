@@ -53,27 +53,28 @@ Professional Services
 ============
 ________________
 **TPC Member**
- *	IEEE International Wireless Communications & Mobile Computing Conference (IWCMC 2024)
- *	IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI 2024)
- *	IEEE International Conference on Signal Processing and Integrated Networks (SPIN 2024)
- *	IEEE International Conference on Intelligent Computing and Next Generation Networks (ICNGN 2024)
- *	International Conference on Information Society and Smart City (ISSC 2024)
- *	International Conference on Computer Vision and Control Systems (CVCS 2025)
- *	International Symposium on Intelligent Technology for Future Transportation (ITFT) 2024.
- *	Intelligent Systems Conference (IntelliSys) 2024
- *	Future of Information and Communication Conference (FICC) 2024
- *	FTC 2024 - Future Technologies Conference 2024
- *	International Conference in Optical Communication and Computer Engineering (ICOCCE 2024)
- *	International Conference on Applied Mathematics and Information Systems (AMIS 2024)
- *	International Conference on Digital Telecommunications (ICDT 2024)
- *	International Conference on Automation Engineering and Artificial Intelligence (ICAEAI 2024)
- *	International Conference on Communication Theory, Reliability, and Quality of Service (CTRQ 2024)
- *	International Conference on Artificial Intelligence and Smart Transportation Systems (AISTS 2024)
- *	International Conference on Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services (CENTRIC 2022-2024)
+*	IEEE International Wireless Communications & Mobile Computing Conference (IWCMC 2024)
+*	IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI 2024)
+*	IEEE International Conference on Signal Processing and Integrated Networks (SPIN 2024)
+*	IEEE International Conference on Intelligent Computing and Next Generation Networks (ICNGN 2024)
+*	International Conference on Information Society and Smart City (ISSC 2024)
+*	International Conference on Computer Vision and Control Systems (CVCS 2025)
+*	International Symposium on Intelligent Technology for Future Transportation (ITFT) 2024.
+*	Intelligent Systems Conference (IntelliSys) 2024
+*	Future of Information and Communication Conference (FICC) 2024
+*	FTC 2024 - Future Technologies Conference 2024
+*	International Conference in Optical Communication and Computer Engineering (ICOCCE 2024)
+*	International Conference on Applied Mathematics and Information Systems (AMIS 2024)
+*	International Conference on Digital Telecommunications (ICDT 2024)
+*	International Conference on Automation Engineering and Artificial Intelligence (ICAEAI 2024)
+*	International Conference on Communication Theory, Reliability, and Quality of Service (CTRQ 2024)
+*	International Conference on Artificial Intelligence and Smart Transportation Systems (AISTS 2024)
+*	International Conference on Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services (CENTRIC 2022-2024)
    
 ============
 **Workshop Chair**
 * International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA) 2022-2024. Topic: Evolutionary Computation for Intelligent Communication Networks in Smart Cities.
+  
 ============
 **Reviewer**
 * Journals:
