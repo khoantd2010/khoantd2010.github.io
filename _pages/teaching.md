@@ -69,8 +69,10 @@ Professional Services
  *	International Conference on Communication Theory, Reliability, and Quality of Service (CTRQ 2024)
  *	International Conference on Artificial Intelligence and Smart Transportation Systems (AISTS 2024)
  *	International Conference on Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services (CENTRIC 2022-2024)
+============
 **Workshop Chair**
   * International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA) 2022-2024. Topic: Evolutionary Computation for Intelligent Communication Networks in Smart Cities.
+============
 **Reviewer**
 * Journals:
   * IEEE  Internet of Things  Journal
