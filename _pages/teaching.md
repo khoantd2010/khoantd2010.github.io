@@ -63,6 +63,7 @@ ________________
 *	Intelligent Systems Conference (IntelliSys) 2024
 *	Future of Information and Communication Conference (FICC) 2024
 *	FTC 2024 - Future Technologies Conference 2024
+*	International Conference on  Algorithms, Network and  Communication Technology (ICANCT 2024)
 *	International Conference in Optical Communication and Computer Engineering (ICOCCE 2024)
 *	International Conference on Applied Mathematics and Information Systems (AMIS 2024)
 *	International Conference on Digital Telecommunications (ICDT 2024)
