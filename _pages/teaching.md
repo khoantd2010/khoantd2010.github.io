@@ -83,6 +83,7 @@ ________________
   * Elsevier Journal of Network and Computer Applications
   * IEEE Transaction on Network and Service Management
   * IEEE Access
+  * Springer Journal of Cloud Computing
   * Springer Journal of Supercomputing
   * Journal of Networking and Network Applications
   * Journal of Service Science and Management 
