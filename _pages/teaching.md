@@ -53,7 +53,8 @@ Professional Services
 ============
 ________________
 **Editor Board Member**
-* IARIA International Journal on Advances in Networks and Services (**IJANS**) [Link](https://www.iariajournals.org/networks_and_services/)
+* IARIA International Journal on Advances in Networks and Services (https://www.iariajournals.org/networks_and_services/)
+ 
 ________________
 **TPC Member**
 *	IEEE International Wireless Communications & Mobile Computing Conference (IWCMC 2024)
