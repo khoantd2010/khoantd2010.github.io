@@ -53,7 +53,7 @@ Professional Services
 ============
 ________________
 **Editor Board Member**
-* IARIA International Journal on Advances in Networks and Services (https://www.iariajournals.org/networks_and_services/)
+* [IARIA](https://www.iariajournals.org/networks_and_services/) International Journal on Advances in Networks and Services
  
 ________________
 **TPC Member**
