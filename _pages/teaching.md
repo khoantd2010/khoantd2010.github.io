@@ -83,7 +83,8 @@ ________________
 
 **Reviewer**
 * Journals:
-  * IEEE  Internet of Things  Journal
+  * Springer Nature Journal of Artificial Intelligence Review
+  * IEEE Internet of Things Journal
   * Elsevier Journal of Network and Computer Applications
   * IEEE Transaction on Network and Service Management
   * IEEE Access
