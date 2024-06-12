@@ -61,6 +61,7 @@ ________________
 *	IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI 2024)
 *	IEEE International Conference on Signal Processing and Integrated Networks (SPIN 2024)
 *	IEEE International Conference on Intelligent Computing and Next Generation Networks (ICNGN 2024)
+*	IEEE International Conference on Geoinformation Science and Communication Technology (GSCT 2025)
 *	International Conference on Information Society and Smart City (ISSC 2024)
 *	International Conference on Computer Vision and Control Systems (CVCS 2025)
 *	International Symposium on Intelligent Technology for Future Transportation (ITFT) 2024.
@@ -83,20 +84,20 @@ ________________
 
 **Reviewer**
 * Journals:
-  * Springer Nature Journal of Artificial Intelligence Review
   * IEEE Internet of Things Journal
   * Elsevier Journal of Network and Computer Applications
   * IEEE Transaction on Network and Service Management
   * IEEE Access
-  * Springer Nature Journal of Cloud Computing
   * Springer Nature Journal of Supercomputing
-  * Journal of Networking and Network Applications
-  * Journal of Service Science and Management 
-  * International Journal of Communication Systems
+  * Springer Nature Journal of Cluster Computing
+  * Springer Nature Journal of Computing
+  * Springer Nature Artificial Intelligence Review Journal
+  * Wiley International Journal of Communication Systems
+  * IEC Journal of Networking and Network Applications
+  * Scientific Research Journal of Service Science and Management
   * Hindawi Journal of Sensors
-  * MDPI Electronics Journal
-  * MDPI Mathematics Journal
-  * MDPI Sustainability Journal
+  * MDPI Electronics Journal, Mathematics Journal, and Sustainability Journal
+  * International Journal of Vehicle Information and Communication Systems
 * Conferences: 
   * IEEE Global Communications Conference (GLOBECOM)
   * IEEE Wireless Communications and Networking Conference (WCNC)
@@ -108,4 +109,7 @@ ________________
   * International Conference on Informatics Engineering & Information Science (ICIEIS)
   * International Conference on Computer, Big Data and Artificial Intelligence (ICCBDAI)
   * International Conference on Pattern Recognition, Machine Vision and Intelligent Algorithms (PRMVIA)
+  * Intelligent Systems Conference (IntelliSys)
+  * Future of Information and Communication Conference (FICC)
+  * Future Technologies Conference (FTC)
 
