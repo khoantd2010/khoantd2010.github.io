@@ -85,9 +85,9 @@ ________________
 **Reviewer**
 * Journals:
   * IEEE Internet of Things Journal
-  * Elsevier Journal of Network and Computer Applications
   * IEEE Transaction on Network and Service Management
   * IEEE Access
+  * Elsevier Journal of Network and Computer Applications
   * Springer Nature Journal of Supercomputing
   * Springer Nature Journal of Cluster Computing
   * Springer Nature Journal of Computing
@@ -96,7 +96,10 @@ ________________
   * IEC Journal of Networking and Network Applications
   * Scientific Research Journal of Service Science and Management
   * Hindawi Journal of Sensors
-  * MDPI Electronics Journal, Mathematics Journal, and Sustainability Journal
+  * MDPI Electronics Journal
+  * MDPI Mathematics Journal
+  * MDPI Sustainability Journal 
+  * MDPI Journal of Marine Science and Engineering
   * International Journal of Vehicle Information and Communication Systems
 * Conferences: 
   * IEEE Global Communications Conference (GLOBECOM)
