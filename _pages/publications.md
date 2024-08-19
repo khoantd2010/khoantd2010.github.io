@@ -29,7 +29,7 @@ __________
   {% include archive-single.html %}
 {% endfor %}
  -->
- 1. K. Nguyen, W. Shi and M. St-Hilaire, "Dynamic Virtual Network Embedding Leveraging Neighborhood and Preceding Mappings Information," in _IEEE Transactions on Vehicular Technology_, 2024. (IF: 6.1)
+ 1. K. Nguyen, W. Shi and M. St-Hilaire, "Dynamic Virtual Network Embedding Leveraging Neighborhood and Preceding Mappings Information," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3443742. (IF: 6.1)
  2. K. Nguyen and C. Huang, "Toward Adaptive Joint Node and Link Mapping Algorithms for Embedding Virtual Networks: A Conciliation Strategy," in _IEEE Transactions on Network and Service Management_, vol. 19, no. 3, pp. 3323-3340, Sept. 2022, doi: 10.1109/TNSM.2022.3159479. (IF: 5.3)
  3. K. Nguyen, S. Drew, C. Huang and J. Zhou, "Parked Vehicles Task Offloading in Edge Computing," in _IEEE Access_, vol. 10, pp. 41592-41606, 2022, doi: 10.1109/ACCESS.2022.3167641. (IF: 3.9)
  4. Nguyen, KTD, Huang, C. Distributed parallel genetic algorithm for online virtual network embedding. _Int J Commun Syst. 2021_; 34:e4691. https://doi.org/10.1002/dac.4691 (IF: 2.1)
