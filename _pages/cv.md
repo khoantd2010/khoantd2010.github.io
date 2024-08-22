@@ -21,7 +21,8 @@ Scholarships:
 
 Certificates
 ======
+* Foundations of Cybersecurity - Coursera Certificate, 2024
 * AWS Cloud Technical Essentials - Coursera Certificate, 2024
 * Neural Networks and Deep Learning - Coursera Certificate, 2019
-*  Certificate of Mobile Technologies and Services Training Program, Centre for Execellence in Telecom Technology & Management Mumbai, 2014
+* Certificate of Mobile Technologies and Services Training Program, Centre for Execellence in Telecom Technology & Management Mumbai, 2014
 * Certificate in Teaching Methodology, Can Tho University, 2013
