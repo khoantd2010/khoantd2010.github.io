@@ -75,7 +75,9 @@ ________________
 *	International Conference on Automation Engineering and Artificial Intelligence (ICAEAI 2024)
 *	International Conference on Communication Theory, Reliability, and Quality of Service (CTRQ 2024)
 *	International Conference on Artificial Intelligence and Smart Transportation Systems (AISTS 2024)
-*	International Conference on Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services (CENTRIC 2022-2024)
+*	IARIA International Conference on Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services (CENTRIC 2022-2024)
+*	IARIA International Conference on Networking and Services (ICNS 2025)
+
    
 
 **Workshop Chair**
